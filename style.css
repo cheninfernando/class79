@@ -1,0 +1,32 @@
+#video{
+    width: 50%;
+    height: 600px;
+    border: none;
+    margin: 20px;
+}
+body{
+    text-align: center;
+    background:linear-gradient(rgb(189, 75, 246) 0%,white 100%);
+}
+.travel_maindiv{
+    border: 1px solid lightgreen;
+
+}
+.travel_maindiv img{
+    width: 100%;
+}
+.travel_maindiv h5{
+    margin: 20px ;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+float: right;
+}
+.movie_text span{
+    color:orange;
+}
